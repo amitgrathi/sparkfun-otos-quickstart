@@ -110,7 +110,7 @@ public class MecanumDrive {
 
     public final VoltageSensor voltageSensor;
 
-    public LazyImu lazyImu;
+    public final LazyImu lazyImu;
 
     public final Localizer localizer;
     public Pose2d pose;
